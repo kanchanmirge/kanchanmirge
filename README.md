@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanchanmirge
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 📫 How to reach me kanchanmirge95@gmail.com
 
 <!---
